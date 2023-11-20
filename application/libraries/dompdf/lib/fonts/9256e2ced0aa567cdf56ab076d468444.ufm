@@ -1,0 +1,96 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+SampleText www.glyphicons.com
+Copyright All logos and trademarks are the property of the respective trademark owners.®
+FontName GLYPHICONS Social
+FontSubfamily Regular
+UniqueID 1.001;UKWN;GLYPHICONSSocial-Regular
+FullName GLYPHICONS Social Regular
+Version Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329
+PostScriptName GLYPHICONSSocial-Regular
+Manufacturer Jan Kovarik
+Designer Jan Kovarik
+FontVendorURL www.glyphicons.com
+FontDesignerURL www.glyphicons.com
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 21
+UnderlinePosition -31
+FontHeightOffset 0
+Ascender 1000
+Descender -20
+FontBBox 0 0 1000 1000
+StartCharMetrics 69
+U 0 ; WX 1000 ; N glyph1 ; G 1
+U 13 ; WX 1000 ; N uni000D ; G 2
+U 32 ; WX 1000 ; N space ; G 3
+U 160 ; WX 1000 ; N uni00A0 ; G 4
+U 8192 ; WX 500 ; N uni2000 ; G 5
+U 8193 ; WX 1000 ; N uni2001 ; G 6
+U 8194 ; WX 500 ; N uni2002 ; G 7
+U 8195 ; WX 1000 ; N uni2003 ; G 8
+U 8196 ; WX 333 ; N uni2004 ; G 9
+U 8197 ; WX 250 ; N uni2005 ; G 10
+U 8198 ; WX 167 ; N uni2006 ; G 11
+U 8199 ; WX 167 ; N uni2007 ; G 12
+U 8200 ; WX 125 ; N uni2008 ; G 13
+U 8201 ; WX 200 ; N uni2009 ; G 14
+U 8202 ; WX 55 ; N uni200A ; G 15
+U 8239 ; WX 200 ; N uni202F ; G 16
+U 8287 ; WX 250 ; N uni205F ; G 17
+U 57344 ; WX 208 ; N uniE000 ; G 18
+U 57345 ; WX 1000 ; N uniE001 ; G 19
+U 57346 ; WX 1000 ; N uniE002 ; G 20
+U 57347 ; WX 1000 ; N uniE003 ; G 21
+U 57348 ; WX 1000 ; N uniE004 ; G 22
+U 57349 ; WX 1000 ; N uniE005 ; G 23
+U 57350 ; WX 1000 ; N uniE006 ; G 24
+U 57351 ; WX 1000 ; N uniE007 ; G 25
+U 57352 ; WX 1000 ; N uniE008 ; G 26
+U 57353 ; WX 1000 ; N uniE009 ; G 27
+U 57360 ; WX 1000 ; N uniE010 ; G 28
+U 57361 ; WX 1000 ; N uniE011 ; G 29
+U 57362 ; WX 1000 ; N uniE012 ; G 30
+U 57363 ; WX 1000 ; N uniE013 ; G 31
+U 57364 ; WX 1000 ; N uniE014 ; G 32
+U 57365 ; WX 1000 ; N uniE015 ; G 33
+U 57366 ; WX 1000 ; N uniE016 ; G 34
+U 57367 ; WX 1000 ; N uniE017 ; G 35
+U 57368 ; WX 1000 ; N uniE018 ; G 36
+U 57369 ; WX 1000 ; N uniE019 ; G 37
+U 57376 ; WX 1000 ; N uniE020 ; G 38
+U 57377 ; WX 1000 ; N uniE021 ; G 39
+U 57378 ; WX 1000 ; N uniE022 ; G 40
+U 57379 ; WX 1000 ; N uniE023 ; G 41
+U 57380 ; WX 1000 ; N uniE024 ; G 42
+U 57381 ; WX 1000 ; N uniE025 ; G 43
+U 57382 ; WX 1000 ; N uniE026 ; G 44
+U 57383 ; WX 1000 ; N uniE027 ; G 45
+U 57384 ; WX 1000 ; N uniE028 ; G 46
+U 57385 ; WX 1000 ; N uniE029 ; G 47
+U 57392 ; WX 1000 ; N uniE030 ; G 48
+U 57393 ; WX 1000 ; N uniE031 ; G 49
+U 57394 ; WX 1000 ; N uniE032 ; G 50
+U 57395 ; WX 1000 ; N uniE033 ; G 51
+U 57396 ; WX 1000 ; N uniE034 ; G 52
+U 57397 ; WX 1000 ; N uniE035 ; G 53
+U 57398 ; WX 1000 ; N uniE036 ; G 54
+U 57399 ; WX 1000 ; N uniE037 ; G 55
+U 57400 ; WX 1000 ; N uniE038 ; G 56
+U 57401 ; WX 1000 ; N uniE039 ; G 57
+U 57408 ; WX 1000 ; N uniE040 ; G 58
+U 57409 ; WX 1000 ; N uniE041 ; G 59
+U 57410 ; WX 1000 ; N uniE042 ; G 60
+U 57411 ; WX 1000 ; N uniE043 ; G 61
+U 57413 ; WX 1000 ; N uniE045 ; G 62
+U 57414 ; WX 1000 ; N uniE046 ; G 63
+U 57415 ; WX 1000 ; N uniE047 ; G 64
+U 57416 ; WX 1000 ; N uniE048 ; G 65
+U 57417 ; WX 1000 ; N uniE049 ; G 66
+U 57424 ; WX 1000 ; N uniE050 ; G 67
+U 63743 ; WX 1000 ; N uniF8FF ; G 68
+EndCharMetrics
+EndFontMetrics
